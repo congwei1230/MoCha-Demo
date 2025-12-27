@@ -52,6 +52,10 @@ Many thanks to the community for sharing —
 <br>
 
 
+## 🔔News
+
+- **🔥[2025-12-27]: Released a demo implementation built on HunyuanVideo — [**🤗 Checkpoints**](https://huggingface.co/CongWei1230/MoCha-Demo) and [**Code**](https://github.com/congwei1230/MoCha-Demo)**
+
 
 ## How to use
 
