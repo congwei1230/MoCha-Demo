@@ -1,0 +1,27 @@
+# Core
+numpy
+pillow
+packaging
+typing_extensions
+tqdm
+
+# Audio
+librosa==0.11.0
+soundfile==0.13.1
+soxr==1.0.0
+
+# Utils
+einops==0.8.1
+
+# Hugging Face
+diffusers==0.36.0
+transformers==4.49.0
+tokenizers==0.21.4
+huggingface_hub==0.36.0
+accelerate==1.5.1
+safetensors
+
+# Video I/O
+moviepy==2.1.2
+imageio
+imageio-ffmpeg
