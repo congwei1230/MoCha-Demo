@@ -178,6 +178,5 @@ log*
 *.csv
 *.png
 *.mp4
-*.gif
 gradio
 discard/
