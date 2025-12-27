@@ -18,7 +18,7 @@ This implementation supports two generation modes:
 <a target="_blank" href="https://congwei1230.github.io/MoCha/">
 <img style="height:19pt" src="https://img.shields.io/badge/-🌐%20Website-black?style=flat"></a>
 <a target="_blank" href="https://huggingface.co/datasets/CongWei1230/MoChaBench">
-
+<br>
 <a target="_blank" href="https://github.com/congwei1230/MoCha-Demo">
 <img style="height:19pt" src="https://img.shields.io/badge/-Code-red?style=flat&logo=github"></a>
 <a target="_blank" href="https://github.com/congwei1230/MoChaBench/tree/main/benchmark">
@@ -26,6 +26,8 @@ This implementation supports two generation modes:
 <a target="_blank" href="https://github.com/congwei1230/MoChaBench/tree/main/mocha-generation">
 <img style="height:19pt" src="https://img.shields.io/badge/-Our Results on MoChaBench-red?style=flat&logo=github"></a>
 <br>
+<a target="_blank" href="https://huggingface.co/CongWei1230/MoCha-Demo">
+<img style="height:19pt" src="https://img.shields.io/badge/-🤗%20Model-yellow?style=flat"></a>
 <a target="_blank" href="https://huggingface.co/datasets/CongWei1230/MoChaBench">
 <img style="height:19pt" src="https://img.shields.io/badge/-🤗%20 MoChaBench HF Version-yellow?style=flat"></a>
 <a target="_blank" href="https://huggingface.co/datasets/CongWei1230/MoCha-Generation-on-MoChaBench">
@@ -69,7 +71,7 @@ This environment is tested with:
 
 ### 2. Download Checkpoint
 
-Download the MoCha transformer checkpoint to a local path:
+Download the [MoCha transformer checkpoint](https://huggingface.co/CongWei1230/MoCha-Demo) to a local path:
 
 ```
 python download_ckpt.py
